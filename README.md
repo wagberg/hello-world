@@ -1,2 +1,3 @@
 # hello-world
-Just anouthe rrepository
+
+This is just me trying to finally learn git.
